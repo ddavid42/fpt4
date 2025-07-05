@@ -4,7 +4,7 @@ title: What is it about ?
 #permalink: /index/
 ---
 
-![image](/images/FPT4_logo.png){: height="60" align="right" }
+![image](/images/FPT4_logo.png){: height="120" align="right" }
 
 
 [comment]: <> (https://anr.fr/Projet-ANR-24-CE46-7572)
