@@ -4,7 +4,7 @@ title: FPT-4: FLOATING POINT TRANSFORMERS 4
 #permalink: /index/
 ---
 
-[![image](/images/fpt4_workflow.png){: height="240" align="right" }]
+[![image](/images/fpt4_workflow.jpg){: height="240" align="right" }]
 
 
 <br> 
