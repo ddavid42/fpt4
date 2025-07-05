@@ -1,10 +1,10 @@
 ---
 layout: page
-title: FPT-4: FLOATING POINT TRANSFORMERS 4
+title: FPT-4
 #permalink: /index/
 ---
 
-[![image](/images/fpt4_workflow.jpg){: height="240" align="right" }]
+![image](/images/fpt4_workflow.jpg){: height="360" align="center" }
 
 
 <br> 
