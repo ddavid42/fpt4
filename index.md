@@ -1,15 +1,10 @@
 ---
 layout: page
-title: FPT-4
+title: What is it about ?
 #permalink: /index/
 ---
 
-![image](/images/fpt4_workflow.jpg){: height="360" align="center" }
-
-
-<br> 
-<br> 
-<br> 
+![image](/images/FPT4_logo.png){: height="60" align="right" }
 
 
 [comment]: <> (https://anr.fr/Projet-ANR-24-CE46-7572)
@@ -22,6 +17,8 @@ In today's fast-paced technological landscape, where new hardware (very long vec
 Legacy HPC codes are often finely tuned for performance and accuracy, with countless dependencies on the existing precision formats, undocumented numerical tricks and missing developer’s expertise. Transitioning to new, more compact representation formats would require not only rewriting a colossal amount of code but also extensive testing and validation to ensure that critical scientific simulations and calculations remain accurate and reliable. Furthermore, the process must be undertaken with meticulous care to avoid introducing subtle errors or disruptions in the vast ecosystem of HPC software and libraries, which could have far-reaching consequences.
 
 Generative AI has recently proven to be of significant help in the management of such legacy code by offering innovative solutions to several common challenges associated with maintaining and modernizing legacy code by helping in code refactoring, documentation generation, bug detection and testing, and knowledge preservation.
+
+![image](/images/fpt4_workflow.jpg){: height="360" align="center" }
 
 
 ### Objectives
