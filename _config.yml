@@ -1,0 +1,21 @@
+theme: jekyll-theme-minimal
+
+title: FPT4
+description: >- # this means to ignore newlines until "baseurl:"
+ FPT-4 ANR Project
+
+url: "https://fpt4.github.io"
+
+header_pages:
+ - index.md
+ - consortium.md
+ - publications.md
+
+
+permalinks: pretty
+markdown: kramdown
+
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   
