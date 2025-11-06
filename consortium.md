@@ -20,7 +20,7 @@ title: Consortium
 - ![Image](/images/fj.png){: height="50" } Fabienne JEZEQUEL
 - ![Image](/images/sg.png){: height="50" } Stef GRAILLAT
 - ![Image](/images/tm.png){: height="50" } Théo MARY
-- ![Image](/images/el.png){: height="50" } El-Mehdi EL ARAR
+- ![Image](/images/el.jpg){: height="50" } El-Mehdi EL ARAR
 - ![Image](/images/phd.png){: height="50" } PhD N°3
 
 ### ![Image](/images/cea.png){: width="80" } CEA
