@@ -8,7 +8,7 @@ title: Project Meetings
 **Location:** CEA Saclay, centre d'intégration Nano-Innov, 2bd Thomas Gobert, 91120 Palaiseau
 
 #### Thursday, March 26
-- **14:00-14:30**: CKKS homomorphic encryption algorithm (Mohamed Jiddou, UVSQ) 
+- **14:00-14:30**: Numerical errors in CKKS homomorphic encryption algorithm (Mohamed Jiddou, UVSQ) [[Slides](slides/ckks-precision-mjiddou.pdf)]
 - **14:30-15:00**: Verrou: GPU instrumentation (Estelle Oliveira, EDF/CEA)
 - **15:00-15:30**: Verrou: backtrace delta-debug (Bruno Lathuilière, EDF)
 - **16:00-16:30**: Semi-Formal Accuracy Analysis of an Industrial Path Computation Algorithm (Franck Vedrine, CEA)
