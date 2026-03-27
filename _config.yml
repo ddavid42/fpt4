@@ -10,6 +10,7 @@ header_pages:
  - index.md
  - consortium.md
  - publications.md
+ - project_meetings.md
 
 
 permalinks: pretty
