@@ -16,7 +16,7 @@ title: Project Meetings
 
 #### Friday, March 27
 - **09:30-10:00**: Reducing the delta-debug complexity and parallel execution (Erwan Tchaleu-Ngankeu, ANEO, EDF)
-- **10:00-10:30**: Benchmarking Large Language Models on Floating-Point Error Classification (Lisa Taldir, UPVD)
+- **10:00-10:30**: Benchmarking Large Language Models on Floating-Point Error Classification (Lisa Taldir, UPVD) [[Slides](slides/fp_error_llm_classification.pdf)]
 - **10:30-11:30**: WP review & projection
 - **11:30-12:30**: Workshops (Group work)
 - **14:00-16:00**: Workshops (continued)
