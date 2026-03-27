@@ -15,7 +15,7 @@ title: Project Meetings
 - **16:30-17:00**: Optimization of the representation of results in interval arithmetic (Yizhi Yang, SU)
 
 #### Friday, March 27
-- **09:30-10:00**: Reducing the delta-debug complexity and parallel execution (Erwan Tchaleu-Ngankeu, ANEO, EDF)
+- **09:30-10:00**: Reducing the delta-debug complexity and parallel execution (Erwan Tchaleu-Ngankeu, ANEO/EDF) [[Slides](slides/Parallélisation%20du%20delta%20debug%20stochastique.pptx)]
 - **10:00-10:30**: Benchmarking Large Language Models on Floating-Point Error Classification (Lisa Taldir, UPVD)
 - **10:30-11:30**: WP review & projection
 - **11:30-12:30**: Workshops (Group work)
